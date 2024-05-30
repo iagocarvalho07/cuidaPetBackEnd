@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:cuida_pet_back_end/application/middlewares/Middlewares.dart';
+import 'package:cuida_pet_back_end/application/middlewares/middlewares.dart';
 import 'package:shelf/shelf.dart';
 
 class CorsMiddlewares extends Middlewares {
